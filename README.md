@@ -43,7 +43,7 @@ I was unable to reject the null hypothesis for my project, but I was able to cre
 - Whether it was a presidential year and whether the top of the ticket was an incumbent
 - Unemployment rate, education rate, median income
 - The percent of voters who were registered as Democrat or Republican
-- Age- the older your county, the more it voted. By like, a lot.
+- Age- the older your county, the more it voted.
 
 To continue this project, I would like to:
 - Improve Bayesian model
